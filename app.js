@@ -5,3 +5,7 @@ console.log("A third log");
 function add() {
     return 4 * 5;
 };
+
+function subtract() {
+    return 5 - 2;
+}
